@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Folks, we are out here making github profile pages. It sure is 2020.
-# ![some header](https://i.kym-cdn.com/photos/images/original/001/043/243/419.gif)
 
-<!--
-**cmilkaitis/cmilkaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ![some header](https://i.kym-cdn.com/photos/images/original/001/043/243/419.gif)
 
 Here are some ideas to get you started:
 
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
